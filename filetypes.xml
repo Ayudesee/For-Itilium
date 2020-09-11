@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="jyp" type="Native" />
       <mapping pattern="jyp.ipynb" type="PLAIN_TEXT" />
+      <mapping ext="npy" type="PLAIN_TEXT" />
       <mapping ext="ipynb" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
